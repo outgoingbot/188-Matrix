@@ -2,7 +2,7 @@
 // left leds x=0
 // top leds y=0
 //rgb 0 = 6 o'clock, increment clockwise
-//change from laptop
+//change from laptop 2
 #include <Adafruit_NeoPixel.h>
 #include "CharTable.h"
 #include <avr/pgmspace.h>
